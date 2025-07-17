@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 - 🎓 3rd Year Student specializing in **AI for Computational Intelligence**
-- 💼 Currently working in **IT**
+- 💼 Currently studying in **KLU University**
 - 🧠 Passionate about **AI Agents**, **Full Stack Development**, and **Creative Design**
 
 ## 💻 Tech Stack
