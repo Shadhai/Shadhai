@@ -1,5 +1,5 @@
 
-# 🧠 SHADHAI JOSEPH — AI Enthusiast | Developer | Designer
+#  SHADHAI JOSEPH — AI Enthusiast | Developer | Designer
 
 ## 🚀 About Me
 - 🎓 3rd Year Student specializing in **AI for Computational Intelligence**
