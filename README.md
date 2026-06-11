@@ -20,7 +20,7 @@
 ```java
 public class Joseph extends Developer {
 
-    private final String name       = "Pandu Shadahi Joseph";
+    private final String name       = "P Shadahi ";
     private final String alias      = "Shadhai";
     private final String university = "KLU University";
     private final String year       = "3rd Year";
