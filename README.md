@@ -15,30 +15,7 @@
 
 ---
 
-## 🧑‍💻 About Me
 
-```java
-public class Joseph extends Developer {
-
-    private final String name       = "P Shadahi ";
-    private final String alias      = "Shadhai";
-    private final String university = "KLU University";
-    private final String year       = "3rd Year";
-    private final String major      = "AI for Computational Intelligence";
-    private final String location   = "India 🇮🇳 (UTC +05:30)";
-
-    private final String[] passions = {
-        "Building scalable backends 🏗️",
-        "Designing clean UIs with Figma 🎨",
-        "Exploring AI Agents & Intelligent Systems 🤖",
-        "Full-stack MERN development 🚀"
-    };
-
-    public String getCurrentFocus() {
-        return "Spring Boot backends + AI Agents + Creative Design";
-    }
-}
-```
 
 ---
 
