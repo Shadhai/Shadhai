@@ -1,16 +1,4 @@
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Shadahi%20Joseph&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Designer&descAlignY=58&descColor=ffffffcc&animation=fadeIn" width="100%" />
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=a78bfa&center=true&vCenter=true&multiline=false&width=700&lines=Hey+there!+I'm+Joseph+%F0%9F%91%8B;3rd+Year+AI+%26+CS+Student+%40+KLU+University;Building+backends+with+Spring+Boot+%26+Java;Crafting+UIs+with+React.js+%26+Figma;Exploring+AI+Agents+%26+Intelligent+Systems)](https://git.io/typing-svg)
-
-[![GitHub followers](https://img.shields.io/github/followers/Shadhai?style=for-the-badge&logo=github&color=764ba2&labelColor=1a1a2e)](https://github.com/Shadhai?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=Shadhai&color=764ba2&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Shadhai)
-[![Website](https://img.shields.io/badge/Portfolio-shadhai.github.io-667eea?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shadhai.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shadhai-joseph-b7a746375/)
-
 </div>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776e6,50:8e54e9,100:c471ed&height=200&section=header&text=Shadhai%20Joseph&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=ML%20Researcher%20%7C%20Medical%20AI%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=17&animation=fadeIn" width="100%" />
